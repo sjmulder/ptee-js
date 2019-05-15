@@ -8,6 +8,10 @@
   },
   "author": "Sijmen J. Mulder <ik@sjmulder.nl>",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjmulder/ptee-js.git"
+  },
   "devDependencies": {
     "prettier": "^1.17.1"
   }
