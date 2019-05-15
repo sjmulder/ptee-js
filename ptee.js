@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /* ptee.js - Copyright (c) 2019, Sijmen J. Mulder (see LICENSE.md) */
 
 const process = require("process");

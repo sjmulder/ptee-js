@@ -2,7 +2,7 @@
   "name": "ptee",
   "version": "0.1.0",
   "description": "Reverse pipe fitting",
-  "main": "ptee.js",
+  "bin": "ptee.js",
   "scripts": {
     "format": "prettier --write *.js"
   },
